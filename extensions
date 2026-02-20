@@ -24,7 +24,6 @@ antigravity --install-extension ms-python.debugpy
 antigravity --install-extension ms-python.python
 antigravity --install-extension ms-python.vscode-python-envs
 antigravity --install-extension nhoizey.gremlins
-antigravity --install-extension saoudrizwan.claude-dev
 antigravity --install-extension stackbreak.comment-divider
 antigravity --install-extension svelte.svelte-vscode
 antigravity --install-extension t3dotgg.vsc-material-theme-but-i-wont-sue-you
