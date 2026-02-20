@@ -1,0 +1,15 @@
+[
+  {
+    "command": "-antigravity.startNewConversation",
+    "key": "ctrl+shift+l",
+  },
+  {
+    "command": "-editor.action.clipboardCutAction",
+    "key": "shift+delete",
+  },
+  {
+    "command": "editor.action.deleteLines",
+    "key": "shift+delete",
+    "when": "textInputFocus && !editorReadonly",
+  },
+]
